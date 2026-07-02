@@ -61,7 +61,6 @@ The dashboard provides insights into:
 Sales-Marketing-Analytics-Dashboard
 │
 ├── Dashboard.pbix
-├── Dataset.xlsx
 ├── README.md
 ├── Report.pdf
 └── screenshots
@@ -72,21 +71,20 @@ Sales-Marketing-Analytics-Dashboard
     └── dashboard5.png
 ```
 
+
 ---
 
 ## 📸 Dashboard Preview
+<img width="1282" height="746" alt="Executive Sales Overview" src="https://github.com/user-attachments/assets/4dc0f3f9-89ad-4fe9-8f29-92519f8e33b8" />
 
-Add screenshots of your dashboards here.
+<img width="1267" height="676" alt="Customer Insights   Revenue Analysis" src="https://github.com/user-attachments/assets/3b470122-953f-49a7-9072-33e940b65e67" />
 
-Example:
+<img width="1264" height="673" alt="Product Performance Analysis" src="https://github.com/user-attachments/assets/158b3a05-0609-4872-a7f1-63fc5f96db22" />
 
-```
-screenshots/dashboard1.png
-screenshots/dashboard2.png
-screenshots/dashboard3.png
-screenshots/dashboard4.png
-screenshots/dashboard5.png
-```
+<img width="1273" height="692" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/95e2dfc7-cbe4-48c6-aa6c-3c7c69dd82b6" />
+
+<img width="1385" height="701" alt="Profit   Regional Analytics" src="https://github.com/user-attachments/assets/cc2cd93d-6cef-4b22-8ad0-46d3e395dae4" />
+
 
 ---
 
